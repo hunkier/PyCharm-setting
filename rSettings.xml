@@ -1,0 +1,6 @@
+<application>
+  <component name="RSettings">
+    <option name="interpreterPath" value="/usr/local/bin/R" />
+    <option name="resolveInModule" value="true" />
+  </component>
+</application>
